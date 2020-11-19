@@ -1,0 +1,30 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Han Solo",
+      "occupation": "Smuggler",
+      "weapon": "Blaster Pistol",
+      "cartoon": true
+    },
+    {
+      "name": "Check",
+      "occupation": "bldajd",
+      "weapon": "ldjalda",
+      "id": 2
+    },
+    {
+      "name": "Anita",
+      "occupation": "Artist",
+      "weapon": "Paint",
+      "id": 3
+    },
+    {
+      "name": "Laurence",
+      "occupation": "Developer",
+      "weapon": "Mind",
+      "cartoon": "on",
+      "id": 4
+    }
+  ]
+}
